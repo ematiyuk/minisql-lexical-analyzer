@@ -11,8 +11,8 @@ The lexical analyzer takes input SQL query string, partition it into substrings 
 
 1. Download the latest [release](https://github.com/ematiyuk/minisql-lexical-analyzer/releases) 
 2. Extract binaries from .zip archive
-3. Type the following in the command line:
+3. To run the program type the following in the command line:
 
-```
-java -jar "MiniSQL-Lexical-Analyzer.jar" 
-```
+  ```
+  java -jar "MiniSQL-Lexical-Analyzer.jar" 
+  ```
